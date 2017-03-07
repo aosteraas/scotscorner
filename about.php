@@ -1,15 +1,10 @@
 <?php require_once('header.php'); ?>
-    <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
         <h1>About David Keith</h1>
-        <!-- <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p> -->
       </div>
     </div>
-
     <div class="container">
-
-      <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-12">
           <h2>About David</h2>
@@ -24,10 +19,6 @@
             <p>I feel blessed that I am still on Community Radio [Still on Monday] and part of a great group, many of whom put in many hours to ensure the longevity of Phoenix fm.</p>
           
         </div>
-        
-
       </div>
-
       <hr>
-
 <?php require_once('footer.php'); ?>
