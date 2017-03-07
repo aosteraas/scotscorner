@@ -26,7 +26,7 @@
         <div class="col-md-4">
           <h2>More Information</h2>
           <p><a href="/about.php">About David</a></p>
-          <p><a href="http://www.phoenixfm.org.au/livePlayer.html" target="_blank">Listen Live</a></p>
+          <p><a href="http://www.phoenixfm.org.au/audio-player.html" target="_blank">Listen Live</a></p>
           <p><a href="http://www.phoenixfm.org.au/">Pheonix FM</a></p>
           <p><img src="img/lr.jpg" class="img-responsive"></p>
         </div>
